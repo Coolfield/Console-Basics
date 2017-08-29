@@ -1,5 +1,7 @@
 # Console Commands Quick Reference
 
+### Basic Commands
+
 | Command        | Use           |
 | :-------------: |:-------------:| 
 | **pwd**| Print Working Directory |
@@ -25,3 +27,5 @@
 | **pwd**| Print Working Directory |
 | **ls**| centered      |
 | **ls -a**| are neat      |
+
+### Users and Permissions
