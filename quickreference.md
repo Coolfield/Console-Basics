@@ -14,7 +14,7 @@
 | **cp -r**| Copy reccursive |
 | **mv**| Remove |
 | **cd**| Change Directory |
-| **cd .. **| Change Directory - up one directory |
+| **cd ..**| Change Directory - up one directory |
 | **clear**| Clear Screen |
 | **rm**| Remove |
 | **rm -r**| Remove recursive |
