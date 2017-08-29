@@ -1,36 +1,4 @@
-#Console Commands Quick Reference
-
-**pwd** - Print Working Directory
-
-**ls** - List
-
-**ls -a** - List all
-
-**ls -l** - List long
-
-**nano/pico** - Text editor
-
-**less/more** - Text file viewer
-
-**cp** - Copy
-
-**cp -r** - Copy reccursive
-
-**mv** - Remove
-
-**cd** - Change Directory
-
-**clear** - Clear screen
-
-**rm** - Remove
-
-**rm -r**
-
-**cat** - Concatinate
-
-**mkdir** - Make Directory
-
-**mkdir -p** 
+# Console Commands Quick Reference
 
 | Command        | Use           |
 | :-------------: |:-------------:| 
