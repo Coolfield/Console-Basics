@@ -3,7 +3,7 @@
 ### Basic Commands
 
 | Command        | Use           |
-| :-------------: |:-------------:| 
+| :-------------: |-------------:| 
 | **pwd**| Print Working Directory |
 | **ls** | List |
 | **ls -a**| List all |
