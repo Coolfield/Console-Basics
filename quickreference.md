@@ -21,11 +21,3 @@
 | **cat**| Concatinate |
 | **mkdir**| Make Directory |
 | **mkdir -p**| Make Directory - p |
-
-| **ls**| centered      |
-| **ls -a**| are neat      |
-| **pwd**| Print Working Directory |
-| **ls**| centered      |
-| **ls -a**| are neat      |
-
-### Users and Permissions
