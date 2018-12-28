@@ -12,7 +12,7 @@
 | **less / more**| Text File Viewer |
 | **cp**| Copy |
 | **cp -r**| Copy reccursive |
-| **mv**| Remove |
+| **mv**| Move / Rename |
 | **cd**| Change Directory |
 | **cd ..**| Change Directory - up one directory |
 | **clear**| Clear Screen |
