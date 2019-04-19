@@ -21,3 +21,5 @@
 | **cat**| Concatinate |
 | **mkdir**| Make Directory |
 | **mkdir -p**| Make Directory - p |
+| **vi**| Launch Vim |
+| **\|**| Pipe commands |
